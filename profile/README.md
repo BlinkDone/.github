@@ -1,4 +1,4 @@
-## Store (Omnic Channel) Mangement Tools
+## Store (Omnic Channel) Management Tools
 
 Instpired by:
 - https://nhanh.vn/
